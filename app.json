@@ -21,27 +21,27 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6473225390:AAHUcyjZwM_uoLMPH7ch3taRtmAtD2U1zsg"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "24072545"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "6473225390:AAHUcyjZwM_uoLMPH7ch3taRtmAtD2U1zsg"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "1953060201"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "6169577931"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "Namuurl1bot"
     }
   },
   "addons": [
