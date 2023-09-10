@@ -33,7 +33,7 @@
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": "1953060201"
+      "value": "-1001953060201"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
